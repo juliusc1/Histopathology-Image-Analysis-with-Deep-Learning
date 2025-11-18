@@ -28,10 +28,6 @@ A complete project report (including figures and discussion) is included in this
 │   ├── data/                         # Dataset (not included in repo)
 ├── requirements.txt                  # Key Python dependencies
 └── .gitignore
+
 '''
-
-## Dataset
-
-The dataset used in this project is the **[Kaggle Histopathologic Cancer Detection Dataset](https://www.kaggle.com/competitions/histopathologic-cancer-detection)** (or replace with your exact dataset link).
-
-The dataset is **not included in this repository** due to size and licensing constraints.
+test
