@@ -28,6 +28,10 @@ A complete project report (including figures and discussion) is included in this
 │   ├── data/                         # Dataset (not included in repo)
 ├── requirements.txt                  # Key Python dependencies
 └── .gitignore
+```
+## Dataset
 
-'''
-test
+The dataset used in this project is the **[Breast Histopathology Images](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images)**
+
+The dataset is **not included in this repository** due to size and licensing constraints.
+
