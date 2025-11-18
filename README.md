@@ -18,7 +18,7 @@ A complete project report (including figures and discussion) is included in this
 ## Project Structure
 
 ```text
-.
+
 ├── README.md
 ├── notebooks/
 │   └── histopathology_cnn.ipynb      # Main Colab notebook
