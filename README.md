@@ -17,9 +17,9 @@ This project applies deep learning techniques to classify histopathology images,
 
 ```text
 ├── notebooks/
-│   └── histopathology_cnn.ipynb      # Main Colab notebook
+│   └── histopathology_image_analysis_using_deep_learning.ipynb      # Main Colab notebook
 ├── reports/
-│   └── project_report.pdf            # Final project paper with figures
+│   └── Histopathology Analysis Report.pdf.pdf            # Final project paper with figures
 ├── src/
 │   ├── data/                         # Dataset (not included in repo)
 ├── .gitignore
