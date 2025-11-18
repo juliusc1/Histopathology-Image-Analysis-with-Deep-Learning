@@ -6,7 +6,7 @@ A complete project report (including figures and discussion) is included in this
 
 ---
 
-## 📌 Overview
+## Overview
 
 - **Goal:** Build a deep learning model to classify histopathology images.
 - **Approach:** Convolutional Neural Network (CNN) / (update with your actual model).
@@ -15,7 +15,7 @@ A complete project report (including figures and discussion) is included in this
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 .
