@@ -9,7 +9,7 @@ A complete project report (including figures and discussion) is included in this
 ## Overview
 
 - **Goal:** Build a deep learning model to classify histopathology images.
-- **Approach:** Convolutional Neural Network (CNN) / (update with your actual model).
+- **Approach:** Comparing convolutional neural networks using transfer learning and building a smallscale model of my own 
 - **Environment:** Google Colab (Python, deep learning frameworks).
 - **Output:** Training results, classification metrics, and analysis documented in the report.
 
