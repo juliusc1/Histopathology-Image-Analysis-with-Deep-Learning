@@ -22,8 +22,8 @@ This project applies deep learning techniques to classify histopathology images,
 │   └── project_report.pdf            # Final project paper with figures
 ├── src/
 │   ├── data/                         # Dataset (not included in repo)
-├── README.md
-└── .gitignore
+├── .gitignore
+└── README.md
 ```
 ## Dataset
 
